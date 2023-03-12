@@ -30,7 +30,7 @@ python run.py
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/basheerrjoub)
+- [@Basheer](https://www.github.com/basheerrjoub)
 
 
 
